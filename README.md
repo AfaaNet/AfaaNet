@@ -1,4 +1,4 @@
-# AfaaNet
+** ✨ AfaaNet ✨ **
 
 Welcome to the official GitHub repository of AfaaNet!
 
