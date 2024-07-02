@@ -4,7 +4,7 @@ Welcome to the official GitHub repository of AfaaNet!
 
 ## ⚡Project
 
-1. Bitcoin Bruteforce wallet generator.
+1. [bitcoin-AddressGenerator](https://github.com/AfaaNet/bitcoin-GenAddress): Bitcoin Address Generator is a tool designed to generate Bitcoin addresses using various parameters. It supports different languages and address types, and it is capable of generating addresses using multiple processors.
    
 ## 📫 Contact
 
