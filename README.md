@@ -4,7 +4,9 @@ Welcome to the official GitHub repository of AfaaNet!
 
 ## ⚡Project
 
-1. [bitcoin-AddressGenerator](https://github.com/AfaaNet/bitcoin-GenAddress): Bitcoin Address Generator is a tool designed to generate Bitcoin addresses using various parameters. It supports different languages and address types, and it is capable of generating addresses using multiple processors.
+# Bitcoin ToolKit
+1. [bitcoin-GenAddress](https://github.com/AfaaNet/bitcoin-GenAddress): Bitcoin Address Generator is a tool designed to generate Bitcoin addresses using various parameters. It supports different languages and address types, and it is capable of generating addresses using multiple processors.
+2. [bitcoin-GetAddress](https://github.com/AfaaNet/bitcoinGetAddress): This project is a Windows Forms application that fetches and displays Bitcoin transaction addresses, processes transactions, and logs activities. The application is designed to run continuously, 24/7.
    
 ## 📫 Contact
 
